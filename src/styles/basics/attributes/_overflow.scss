@@ -1,6 +1,7 @@
 .tb-overflow- {
   &-auto {
     overflow: auto;
+        scrollbar-width: thin;
   }
   &-unset {
     overflow: unset;
