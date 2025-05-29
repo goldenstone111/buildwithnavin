@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkniraj_portfolio=self.webpackChunkniraj_portfolio||[]).push([[859],{4859:(c,u,a)=>{a.d(u,{ot:()=>b});var r=a(4650),i=a(3238);let b=(()=>{class e{}return e.\u0275fac=function(t){return new(t||e)},e.\u0275mod=r.oAB({type:e}),e.\u0275inj=r.cJS({imports:[i.si,i.BQ,i.BQ]}),e})()}}]);
